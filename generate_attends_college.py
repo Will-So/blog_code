@@ -1,5 +1,5 @@
 """
-USEAGE
+USAGE
 
 python generate_attends_college.py correlated
 python generate_attends_college.py uncorrelated
